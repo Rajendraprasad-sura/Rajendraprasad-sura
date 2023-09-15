@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently learning (Data science)
 
-- 🌱 I’m currently learning **aws developer and practioner**
+- 🌱 I’m currently learning **Data science **
 
-- 💬 Ask me about **Python , Java, html ,css **
+- 💬 Ask me about **Python ,SQL,R,,ML,DL,NLP, Java, html ,css **
 
 - 📫 How to reach me **surrarajendraprasad123@gmail.com**
 
