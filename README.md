@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently learning **Data science **
 
-- 💬 Ask me about **Python ,SQL,R,,ML,DL,NLP, Java, html ,css **
+- 💬 Ask me about **Python ,SQL,R,PowerBI,Tableau,ML,DL,NLP, Java, html ,css **
 
 - 📫 How to reach me **surrarajendraprasad123@gmail.com**
 
-- ⚡ Fun fact **I am in fun**
+- ⚡ Fun fact **I am a fun guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
