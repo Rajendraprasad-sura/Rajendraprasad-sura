@@ -2,17 +2,17 @@
 
 
 <h1 align="center">Hi 👋, I'm SURA RAJENDRA PRASAD</h1>
-<h3 align="center">A passionate Data scientist from India</h3>
+<h3 align="center">A passionate coder from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rajendraprasad-sura&label=Profile%20views&color=0e75b6&style=flat" alt="Rajendraprasad-sura" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently learning (Data science)
+- 🔭 I’m currently learning (programing)
 
-- 🌱 I’m currently learning **Data science **
+- 🌱 I’m currently learning **life lessons **
 
-- 💬 Ask me about **Python ,SQL,R,PowerBI,Tableau,ML,DL,NLP, Java, html ,css **
+- 💬 Ask me about **Python,SQL,Java, html ,css ,powerBI**
 
 - 📫 How to reach me **surrarajendraprasad123@gmail.com**
 
